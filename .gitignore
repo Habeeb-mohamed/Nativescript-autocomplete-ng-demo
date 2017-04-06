@@ -48,3 +48,4 @@ Temporary Items
 app/App_Resources/
 platforms/
 hooks/
+*.js

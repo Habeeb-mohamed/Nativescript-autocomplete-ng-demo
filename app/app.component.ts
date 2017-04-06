@@ -5,7 +5,7 @@ import { Component } from "@angular/core";
     templateUrl: "app.component.html",
 })
 export class AppComponent {
-    public list = ['1', '2', '3', '4', '567'];
+    public list =  ['work', 'wood', 'man', 'wow', 'wonderful1']
 
     itemTapped(ev) {
         console.log(ev);
